@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/173237.jpg");
+    
+}
+.love{
+    
+    padding: 10% 35% 10% 35%;
+    background-image: url("https://gph.is/st/AMP3DjE");
+
+}
+.calc{
+    margin: auto 20% auto 20%;
+}
+h1{
+    color:#f54291;
+}
+h1:hover{
+    color: #efbbcf;
+    font-style: italic;
+    font-size: 30px;
+}
+h2{
+    color: #f09ae9;
+}
+.heart{
+    position: absolute;
+}
